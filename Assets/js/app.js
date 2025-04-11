@@ -3,7 +3,7 @@ const siteData = {
         {
             id: 1,
             title: "Cultural Triangle Explorer",
-            image: "Assets/images/cultural-triangle.webp",
+            image: "assets/images/cultural-triangle.webp",
             rating: 4.9,
             duration: "5 Days",
             locations: "Anuradhapura, Sigiriya, Kandy",
@@ -18,7 +18,7 @@ const siteData = {
         {
             id: 2,
             title: "Wildlife Safari Adventure",
-            image: "Assets/images/safari-tour.webp",
+            image: "assets/images/safari-tour.webp",
             rating: 4.8,
             duration: "4 Days",
             locations: "Yala, Udawalawe",
@@ -29,7 +29,7 @@ const siteData = {
         {
             id: 3,
             title: "Beach Paradise Getaway",
-            image: "Assets/images/beach-paradise.webp",
+            image: "assets/images/beach-paradise.webp",
             rating: 4.7,
             duration: "6 Days",
             locations: "Mirissa, Unawatuna, Bentota",
@@ -40,7 +40,7 @@ const siteData = {
         {
             id: 4,
             title: "Hill Country Experience",
-            image: "Assets/images/hill-country.webp",
+            image: "assets/images/hill-country.webp",
             rating: 4.8,
             duration: "5 Days",
             locations: "Nuwara Eliya, Ella, Horton Plains",
@@ -51,7 +51,7 @@ const siteData = {
         {
             id: 5,
             title: "Ayurvedic Wellness Retreat",
-            image: "Assets/images/ayurvedic-treat.webp",
+            image: "assets/images/ayurvedic-treat.webp",
             rating: 4.9,
             duration: "7 Days",
             locations: "Beruwala, Bentota",
@@ -66,7 +66,7 @@ const siteData = {
         {
             id: 6,
             title: "Complete Sri Lanka Circuit",
-            image: "Assets/images/complete-tour.webp",
+            image: "assets/images/complete-tour.webp",
             rating: 4.9,
             duration: "14 Days",
             locations: "Island-wide",
@@ -80,19 +80,19 @@ const siteData = {
         {
             name: "Rajith Fernando",
             position: "Founder & CEO",
-            image: "Assets/images/rajith-fernando.webp",
+            image: "assets/images/rajith-fernando.webp",
             description: "With over 15 years in tourism, Rajith's vision and passion for Sri Lanka drives our company's success."
         },
         {
             name: "Amali Perera",
             position: "Operations Director",
-            image: "Assets/images/amali-perera.webp",
+            image: "assets/images/amali-perera.webp",
             description: "Amali ensures that every tour runs smoothly, with meticulous attention to detail and customer satisfaction."
         },
         {
             name: "Dinesh Jayawardena",
             position: "Head of Guides",
-            image: "Assets/images/Dinesh-Jayawardana.webp",
+            image: "assets/images/Dinesh-Jayawardana.webp",
             description: "A historian and naturalist, Dinesh trains our guides to provide rich, informative experiences for all travelers."
         }
     ],
@@ -101,28 +101,28 @@ const siteData = {
         {
             name: "Sunil Rathnayake",
             position: "Cultural Guide",
-            image: "Assets/images/sunil-rathnayake.webp",
+            image: "assets/images/sunil-rathnayake.webp",
             description: "Specializes in ancient history and Buddhist heritage sites.",
             languages: ["English", "German", "French"]
         },
         {
             name: "Priya Mendis",
             position: "Wildlife Expert",
-            image: "Assets/images/Priya-Mendis.webp",
+            image: "assets/images/Priya-Mendis.webp",
             description: "Former park ranger with extensive knowledge of Sri Lankan fauna.",
             languages: ["English", "Italian", "Japanese"]
         },
         {
             name: "Lakshmi Silva",
             position: "Culinary Guide",
-            image: "Assets/images/lakshmi-silva.webp",
+            image: "assets/images/lakshmi-silva.webp",
             description: "Leads food tours and cooking classes featuring authentic Sri Lankan cuisine.",
             languages: ["English", "Spanish", "Chinese"]
         },
         {
             name: "Nimal Gunaratne",
             position: "Adventure Guide",
-            image: "Assets/images/nimal-gunarathne.webp",
+            image: "assets/images/nimal-gunarathne.webp",
             description: "Leads hiking, rafting, and climbing expeditions throughout the island.",
             languages: ["English", "Russian", "Dutch"]
         }
@@ -132,28 +132,28 @@ const siteData = {
         {
             name: "Chaminda Perera",
             position: "Senior Driver",
-            image: "Assets/images/chaminda-perera.webp",
+            image: "assets/images/chaminda-perera.webp",
             description: "12+ years experience, specializes in long-distance tours.",
             languages: ["English", "German"]
         },
         {
             name: "Rohan Dissanayake",
             position: "Safari Driver",
-            image: "Assets/images/Rohan-Dissanayake.webp",
+            image: "assets/images/Rohan-Dissanayake.webp",
             description: "Expert in wildlife spotting and off-road driving.",
             languages: ["English", "French"]
         },
         {
             name: "Ajith Bandara",
             position: "Mountain Driver",
-            image: "Assets/images/Ajith-Bandara.webp",
+            image: "assets/images/Ajith-Bandara.webp",
             description: "Specializes in hill country routes and tea plantation tours.",
             languages: ["English", "Chinese"]
         },
         {
             name: "Lasith Kumara",
             position: "City Driver",
-            image: "Assets/images/Lasith-Kumara.webp",
+            image: "assets/images/Lasith-Kumara.webp",
             description: "Expert in navigating Colombo and other urban areas.",
             languages: ["English", "Russian"]
         }
@@ -162,17 +162,17 @@ const siteData = {
     destinations: [
         {
             title: "Sigiriya Rock Fortress",
-            image: "Assets/images/sigiriya.webp",
+            image: "assets/images/sigiriya.webp",
             description: "Ancient palace and fortress complex with stunning views"
         },
         {
             title: "Ella & Tea Plantations",
-            image: "Assets/images/ella.webp",
+            image: "assets/images/ella.webp",
             description: "Breathtaking mountain views and lush tea estates"
         },
         {
             title: "Galle Fort",
-            image: "Assets/images/galle-fort.webp",
+            image: "assets/images/galle-fort.webp",
             description: "Colonial-era fortress with charming streets and ocean views"
         }
     ],
