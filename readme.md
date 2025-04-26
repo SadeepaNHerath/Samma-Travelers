@@ -14,6 +14,7 @@ This project is a multi-page website for a Sri Lankan tour operator featuring to
 - Featured destinations with images and descriptions
 - Customer testimonial carousel
 - Contact form with validation
+![landing-page](https://github.com/user-attachments/assets/95060221-593c-45e3-9e36-52bdcccd2f53)
 
 ### Trip Plans (trips.html)
 - Interactive filtering by categories (cultural, adventure, beach, wildlife)
@@ -21,6 +22,7 @@ This project is a multi-page website for a Sri Lankan tour operator featuring to
 - Modal pop-up for trip details including itinerary
 - Custom trip request section
 - Contact form
+![trip-plans](https://github.com/user-attachments/assets/aa24c76f-62b5-4888-b79a-d0a6022145db)
 
 ### Our Team (team.html)
 - Management team profiles with social media links
@@ -28,6 +30,7 @@ This project is a multi-page website for a Sri Lankan tour operator featuring to
 - Professional drivers with experience details
 - Job openings section
 - Contact form
+![team](https://github.com/user-attachments/assets/b5045a51-1b9d-4f97-9ffe-df03f3af6186)
 
 ## Technical Implementation
 
@@ -52,20 +55,6 @@ The site uses a structured data object in `app.js` containing:
 - Responsive images and cards
 - Appropriate spacing and typography at all screen sizes
 
-## Project Structure
-Project/
-
-Project/
-├── index.html
-├── trips.html
-├── team.html
-├── favicon.ico
-├── Assets/
-│   ├── images/
-│   │   ├── various image files (.webp)
-│   │   └── ...
-│   └── js/
-│       └── app.js
 ## Dependencies
 - Bootstrap 5.3.0
 - Font Awesome 6.4.0
